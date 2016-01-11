@@ -1,11 +1,11 @@
 {
-    "name": ":vendor/:package_name",
-    "description": ":package_description",
+    "name": "gitda/pschedule",
+    "description": "package_description",
     "keywords": [
         ":vendor",
         ":package_name"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/gitda/pschedule",
     "license": "MIT",
     "authors": [
         {
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
+            "Gitda\\Pschedule\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\:package_name\\Test\\": "tests"
+            "Gitda\\Pschedule\\Test\\": "tests"
         }
     },
     "scripts": {
