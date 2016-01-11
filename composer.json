@@ -2,8 +2,8 @@
     "name": "gitda/pschedule",
     "description": "package_description",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "gitda",
+        "pschedule"
     ],
     "homepage": "https://github.com/gitda/pschedule",
     "license": "MIT",
