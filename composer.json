@@ -1,6 +1,7 @@
 {
     "name": "gitda/pschedule",
     "description": "package_description",
+    "version": "1.0.0",
     "keywords": [
         "gitda",
         "pschedule"
